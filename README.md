@@ -17,10 +17,10 @@
 
 The following utilities are currently available:
 
-* `WSL-vhdx-Compact`: [A powershell script](https://github.com/brooks-code/WSL-VHDX-Compact) that safely compacts WSL2 linux partition files to save Windows disk space. *(added in August 2025)*.
+* `WSL-vhdx-Compact`: [A powershell script](https://github.com/hyperphantasia/WSL-VHDX-Compact) that safely compacts WSL2 linux partition files to save Windows disk space. *(added in August 2025)*.
   - A tutorial about it is available on [freeCodeCamp](https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/). There is also an interesting thread about it on [HackerNews](https://news.ycombinator.com/item?id=44927629).
 
-* `repo-confusion-guard`: [A markdown note](https://github.com/brooks-code/repo-confusion-guard) about a supply chain attack encountered here on GitHub. *(added in July 2025)*.
+* `repo-confusion-guard`: [A markdown note](https://github.com/hyperphantasia/repo-confusion-guard) about a supply chain attack encountered here on GitHub. *(added in July 2025)*.
   - A detailed article about it is available on [freeCodeCamp](https://www.freecodecamp.org/news/protect-github-repos-from-malicious-clones/).
 
 * *More utilities will appear as they are added.*
